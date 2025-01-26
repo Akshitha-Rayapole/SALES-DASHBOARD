@@ -17,9 +17,6 @@ This project is a **Sales Analysis Dashboard** built using **Tableau**, leveragi
 🔹 **Excel** – For data storage & preprocessing  
 🔹 **Data Analytics Concepts** – Trend analysis, filtering, and interactive elements  
 
-## Screenshots
-(Upload relevant images showcasing the dashboard visuals)
-
 ## How to Use
 1️⃣ **Download** the Tableau workbook (`.twbx` file)  
 2️⃣ **Open** it in Tableau Desktop  
